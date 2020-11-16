@@ -12,3 +12,7 @@ Of given 5 numbers, how many are odd? - https://tests.mettl.com/authenticateKey/
 Of 5 numbers, how many are even or odd? - https://tests.mettl.com/authenticateKey/607636d7<br/>
 
 # Day 6
+Is Prime? - https://tests.mettl.com/authenticateKey/b1efaa3d
+Factorial of a number - https://tests.mettl.com/authenticateKey/8c1f2ae
+Nth Fibonacci - https://tests.mettl.com/authenticateKey/f390cadf
+Nth Prime - https://tests.mettl.com/authenticateKey/34fdaa41
