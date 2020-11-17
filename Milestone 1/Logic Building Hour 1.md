@@ -16,3 +16,9 @@ Is Prime? - https://tests.mettl.com/authenticateKey/b1efaa3d<br/>
 Factorial of a number - https://tests.mettl.com/authenticateKey/8c1f2ae<br/>
 Nth Fibonacci - https://tests.mettl.com/authenticateKey/f390cadf<br/>
 Nth Prime - https://tests.mettl.com/authenticateKey/34fdaa41<br/>
+
+# Day 7
+Number of Primes in a specified range - https://tests.mettl.com/authenticateKey/87c41143 <br/>
+All Digits Count  - https://tests.mettl.com/authenticateKey/ed6b4da <br/>
+Unique Digits Count - https://tests.mettl.com/authenticateKey/b7aac4a5 <br/>
+Non-Repeated Digits’ Count  - https://tests.mettl.com/authenticateKey/e46500f5 <br/>
