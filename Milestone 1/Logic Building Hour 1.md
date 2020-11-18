@@ -22,3 +22,9 @@ Number of Primes in a specified range - https://tests.mettl.com/authenticateKey/
 All Digits Count  - https://tests.mettl.com/authenticateKey/ed6b4da <br/>
 Unique Digits Count - https://tests.mettl.com/authenticateKey/b7aac4a5 <br/>
 Non-Repeated Digits’ Count  - https://tests.mettl.com/authenticateKey/e46500f5 <br/>
+
+# Day 8
+digitSum : sum of all digits in N - https://tests.mettl.com/authenticateKey/ab1d60cc<br/>
+digitSum even: sum of even digits in N - https://tests.mettl.com/authenticateKey/b55d1714<br/>
+digitSum odd: sum of odd digits in N - https://tests.mettl.com/authenticateKey/738fdee0<br/>
+digitSum opt: sum of even or odd digits - https://tests.mettl.com/authenticateKey/a05abbcf<br/>
