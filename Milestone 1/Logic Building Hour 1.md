@@ -34,3 +34,9 @@ Is Palindrome Number? - https://tests.mettl.com/authenticateKey/28c41d9d<br/>
 Is Palindrome Possible? - https://tests.mettl.com/authenticateKey/f4fdb02<br/>
 Create PIN using alpha, beta, gamma - https://tests.mettl.com/authenticateKey/be582d9f<br/>
 Weight of a hill pattern - https://tests.mettl.com/authenticateKey/d612c0e6<br/>
+
+# Day 10
+Return second word in Uppercase - https://tests.mettl.com/authenticateKey/4a72723f<br/>
+is Palindrome (string) - https://tests.mettl.com/authenticateKey/ffe8042<br/>
+weight of string - https://tests.mettl.com/authenticateKey/387952fc<br/>
+Most Frequent Digit - https://tests.mettl.com/authenticateKey/916310b8<br/>
